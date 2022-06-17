@@ -16,6 +16,9 @@
     "typescript": "^4.4.2",
     "web-vitals": "^2.1.0"
   },
+  "devDependencies": {
+    "eslint-config-react": "https://github.com/diogosilva5/eslint-config-react#master"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
